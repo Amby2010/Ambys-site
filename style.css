@@ -1,0 +1,25 @@
+ul{
+	background-color: lightgoldenrodyellow;
+	background-position: position center;
+	padding: 20px;
+	border: 18px;
+	border-color: khaki;
+}
+ul li{
+
+	margin-right: 15px;
+	margin-left: left;
+	list-style-type: upper-roman;
+	display: inline-block;
+
+}
+
+ul li a{
+	color: olive;
+	text-decoration-color: black;
+}
+
+
+		body{
+			background-color: khaki;
+		}
